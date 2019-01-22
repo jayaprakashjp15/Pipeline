@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 how are you
 vbjsjds
 dsjjshgs
@@ -5,4 +6,13 @@ mskchusgcjs
 hoiiii maniiiii
 
 Hi Sathya
+=======
+how are you ?
+njdnjdjfndjfndjfdfndkjfdkjfndkjfnkjdnfkjn
+pmklmklmklmdf
+
+mfk;dmfkldmkfm
+m;m;dmf;dmfd
+m;mf;mdfmd;mf;dmf
+>>>>>>> 3ef148cfa9fc4598fe3ca312c09c711b3f16f625
 
