@@ -34,7 +34,7 @@ pipeline
 {
         steps
  {
-        sh 'cp -r /root/.jenkins/workspace/scriptedpipeline/target/* /opt/apache-tomcat-8.5.3/webapps/'
+        sh 'cp -r /root/.jenkins/workspace/Pipeline/mavewebappdemo/target/* /opt/apache-tomcat-8.5.3/webapps/'
         }
         }
 
